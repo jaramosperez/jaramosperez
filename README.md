@@ -1,9 +1,39 @@
-### Hi there 👋
+### HOLA!! 👋
+- 😄 Soy Javier, actualmente vivo en la ciudad de Chillán en el centro sur de Chile.
 
+- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas ademas de ser el subrogante oficial del encargado de las TIC.
+
+- :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática :computer:.
+
+- Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente.
+
+- Me encantaría tomar el camino de la Ciencia de Datos aprovechando las bondades de Python y sus diferentes librerías y Frameworks.
+
+- En este momento me encuentro profundizando y aprendido mas sobre Python y Django. Además de iniciar e intentar profesionalizarme en Wordpress.
+
+- He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
+
+    :black_small_square: Python (Django + Diferentes Videos en youtube, Udemy, Platzi) He desarrollado 2 sistemas para la institución donde trabajo de forma autodidacta, uno encargado de mantener y conservar la documentación relacionada a los ambitos de calidad. Y otro sistema para llevar el registro de uso de permisos de ausencias. 
+
+    :white_small_square: Java (Diferentes proyectos al inicio de mi carrera en la universidad + 2 Cursos de Udemy de Spring + 1 Curso en Platzi)
+
+    :white_small_square: C# (Proyectos en una asignatura de mi carrera)
+
+    :white_small_square: Ruby (Rails: Un Curso en Youtube)
+
+    :white_small_square: PHP(Laravel: 1 Curso de  Udemy, Wordpress)
+
+- :grin: Disfruto :video_game: JRPG en mis tiempos libres, o :book: articulos o papers sobre nuevas tecnologías o temas que me produzcan curiosidad. Escuchar :musical_note: mientras mantengo una larga caminata.
+
+- 💬 ¿Puedes preguntarme lo que quieras? ¿o si necesitas ayuda con algun proyecto? Solo Pregunta 
+
+- 📫 Me pueden encontrar: En Twitter @zodux - Email: jaramosperez85@gmail.com  
+
+> La verdad no será encontrada en el exterior. Ningún profesor, ninguna escritura te puede dar la verdad. Está dentro de ti y, si quieres alcanzarla, encuéntrate a ti mismo. Está contigo mismo.  — Bhagwan Shree Rajneesh
 <!--
 **jaramosperez/jaramosperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
