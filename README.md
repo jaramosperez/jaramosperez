@@ -1,7 +1,7 @@
 ### HOLA!! 👋
 - 😄 Soy Javier, actualmente vivo en la ciudad de Chillán en el centro sur de Chile.
 
-- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas ademas de ser el subrogante oficial del encargado de las TIC.
+- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas ademas de ser el subrogante oficial del encargado de las TIC (Buscando ingresar a lo que de verdad me apasina, y desde donde puedo aportar a mejorar este mundo con mis fortalezas y debilidades).
 
 - :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática :computer:.
 
