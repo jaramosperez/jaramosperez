@@ -5,13 +5,13 @@
 
 - :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática :computer:.
 
-- Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente.
+- :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente.
 
-- Me encantaría tomar el camino de la Ciencia de Datos aprovechando las bondades de Python y sus diferentes librerías y Frameworks.
+- :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías.
 
-- En este momento me encuentro profundizando y aprendido mas sobre Python y Django. Además de iniciar e intentar profesionalizarme en Wordpress.
+- 🌱 Ahora me encuentro aprendiendo sobre contenedores con Docker, avanzando el repaso de cosas básicas de Python, y Aprendiendo Wordpress de forma profesional.
 
-- He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
+- :hourglass_flowing_sand: He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
 
     :black_small_square: Python (Django + Diferentes Videos en youtube, Udemy, Platzi) He desarrollado 2 sistemas para la institución donde trabajo de forma autodidacta, uno encargado de mantener y conservar la documentación relacionada a los ambitos de calidad. Y otro sistema para llevar el registro de uso de permisos de ausencias. 
 
