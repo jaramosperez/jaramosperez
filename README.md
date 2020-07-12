@@ -27,7 +27,7 @@
 
 - 💬 ¿Puedes preguntarme lo que quieras? ¿o si necesitas ayuda con algun proyecto? Solo Pregunta 
 
-- 📫 Me pueden encontrar: En Twitter @zodux - Email: jaramosperez85@gmail.com  
+- 📫 Me pueden encontrar: En Twitter @zodux - :email: jaramosperez85@gmail.com  
 
 > La verdad no será encontrada en el exterior. Ningún profesor, ninguna escritura te puede dar la verdad. Está dentro de ti y, si quieres alcanzarla, encuéntrate a ti mismo. Está contigo mismo.  — Bhagwan Shree Rajneesh
 <!--
