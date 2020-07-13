@@ -13,7 +13,7 @@
 
 - :hourglass_flowing_sand: He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
 
-    :black_small_square: Python (Django + Diferentes Videos en youtube, Udemy, Platzi) He desarrollado 2 sistemas para la institución donde trabajo de forma autodidacta, uno encargado de mantener y conservar la documentación relacionada a los ambitos de calidad. Y otro sistema para llevar el registro de uso de permisos de ausencias. 
+    :black_small_square: _Python_ (Django + Diferentes Videos en youtube, Udemy, Platzi) He desarrollado 2 sistemas para la institución donde trabajo de forma autodidacta, uno encargado de mantener y conservar la documentación relacionada a los ambitos de calidad. Y otro sistema para llevar el registro de uso de permisos de ausencias. 
 
     :white_small_square: Java (Diferentes proyectos al inicio de mi carrera en la universidad + 2 Cursos de Udemy de Spring + 1 Curso en Platzi)
 
