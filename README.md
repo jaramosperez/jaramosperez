@@ -11,7 +11,7 @@
 
 - :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente.
 
-- :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías.
+- :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
 
 - 🌱 Ahora me encuentro aprendiendo sobre contenedores con Docker, avanzando el repaso de cosas básicas de Python, y Aprendiendo Wordpress de forma profesional.
 
