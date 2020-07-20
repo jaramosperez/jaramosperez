@@ -35,6 +35,8 @@
 
 - 📫 Me pueden encontrar: En Twitter @zodux - :email: jaramosperez85@gmail.com  
 
+- :mag: Soy de esos programadores que buscan en google, cuando no encuentro una solución.
+
 > La verdad no será encontrada en el exterior. Ningún profesor, ninguna escritura te puede dar la verdad. Está dentro de ti y, si quieres alcanzarla, encuéntrate a ti mismo. Está contigo mismo.  — Bhagwan Shree Rajneesh
 <!--
 **jaramosperez/jaramosperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
