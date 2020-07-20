@@ -7,7 +7,7 @@
 
 - :relaxed: Poseo habilidades blandas adquiridas en los casi 10 años que he dedicado a trabajar en el área de la salud con equipos multidisciplinarios, distintas personalidades y carácteres.
 
-- :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática :computer:.
+- :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática(Falta el cierre del semestre y listo!) :computer:.
 
 - :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente.
 
