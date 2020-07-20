@@ -13,7 +13,7 @@
 
 - :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
 
-- 🌱 Ahora me encuentro aprendiendo sobre contenedores con Docker, avanzando el repaso de cosas básicas de Python, y Aprendiendo Wordpress de forma profesional.
+- 🌱 Ahora me encuentro aprendiendo sobre contenedores con Docker, avanzando el repaso de cosas básicas de Python, y comenzando con las bases de React.
 
 - :hourglass_flowing_sand: He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
 
@@ -21,13 +21,13 @@
 
     :white_small_square: *Java* (Diferentes proyectos al inicio de mi carrera en la universidad + 2 Cursos de Udemy de Spring + 1 Curso en Platzi)
 
-    :white_small_square: *C#* (Proyectos en una asignatura de mi carrera)
+    :white_small_square: *C#* (Proyectos en una asignatura de mi carrera, Univerisdad)
 
     :white_small_square: *Ruby* (Rails: Un Curso en Youtube)
 
     :white_small_square: *PHP* (Laravel: 1 Curso de  Udemy, Wordpress)
     
-    :white_small_square: SQL/NO SQL.
+    :white_small_square: SQL/NO SQL. (Universidad)
 
 - :grin: Disfruto :video_game: JRPG en mis tiempos libres, o :book: articulos o papers sobre nuevas tecnologías o temas que me produzcan curiosidad. Escuchar :musical_note: mientras mantengo una larga caminata.
 
