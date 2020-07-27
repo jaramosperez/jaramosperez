@@ -3,7 +3,7 @@
 
 - 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas. Ademas, soy subrogante del encargado de las TIC
 
-- :pray: Busco ingresar a la industria que de verdad me apasiona, y desde donde puedo aportar a mejorar este mundo con mis fortalezas y debilidades.
+- :pray: Busco ingresar a la industria que de verdad me apasiona.
 
 - :relaxed: Poseo habilidades blandas adquiridas en los casi 10 años que he dedicado a trabajar en el área de la salud con equipos multidisciplinarios, distintas personalidades y carácteres.
 
