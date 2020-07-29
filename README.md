@@ -9,7 +9,7 @@
 
 - :book: Actualmente me encuentro finalizando mis estudios en Ingeniería en Informática(Falta el cierre del semestre y listo!) :computer:.
 
-- :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente(Python - Django).
+- :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente(Django).
 
 - :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
 
