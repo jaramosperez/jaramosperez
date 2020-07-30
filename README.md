@@ -9,6 +9,8 @@
 
 - :book: Actualmente soy Egresado de Ingeniería en Informática :computer:.
 
+- :notebook: Soy Autodidacta, me encanta aprender cosas nuevas, no me cierro a ninguna tecnología. Me encanta aprender algo nuevo cada día.
+
 - :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente(Django).
 
 - :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
