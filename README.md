@@ -1,13 +1,13 @@
 ### HOLA!! 👋
 - 😄 Soy Javier, actualmente vivo en la ciudad de Chillán en el centro sur de Chile.
 
-- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas. Ademas, soy subrogante del encargado de las TIC
+- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas. Ademas, soy subrogante del encargado de las TIC.
 
-- :muscle: Busco ingresar a la industria que de verdad me apasiona.
+- :muscle: Busco ingresar a la industria que de verdad me apasiona, desarrollando soluciones que faciliten el que hacer de la sociedad.
 
 - :relaxed: Poseo habilidades blandas adquiridas en los casi 10 años que he dedicado a trabajar en el área de la salud con equipos multidisciplinarios, distintas personalidades y carácteres.
 
-- :book: Actualmente soy Egresado de Ingeniería en Informática :computer:.
+- :book: Egresado de Ingeniería en Informática con Licenciatura en Informática :computer:.
 
 - :notebook: Soy Autodidacta, me encanta aprender cosas nuevas, no me cierro a ninguna tecnología. Me encanta aprender algo nuevo cada día.
 
@@ -25,7 +25,7 @@
 
 - 📫 Me pueden encontrar: En Twitter @zodux - :email: jaramosperez85@gmail.com  
 
-- :mag: Soy de esos programadores que buscan en google, cuando no encuentro una solución.
+- :mag: Soy de esos programadores que buscan en google, cuando no encuentro una solución y que no temen a preguntar.
 
 > La verdad no será encontrada en el exterior. Ningún profesor, ninguna escritura te puede dar la verdad. Está dentro de ti y, si quieres alcanzarla, encuéntrate a ti mismo. Está contigo mismo.  — Bhagwan Shree Rajneesh
 <!--
