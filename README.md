@@ -7,7 +7,7 @@
 
 - :relaxed: Poseo habilidades blandas adquiridas en los casi 10 años que he dedicado a trabajar en el área de la salud con equipos multidisciplinarios, distintas personalidades y carácteres.
 
-- :book: Egresado de Ingeniería en Informática con Licenciatura en Informática :computer:.
+- :book: Titulado de Ingeniería en Informática con Licenciatura en Informática :computer:.
 
 - :notebook: Soy Autodidacta, me encanta aprender cosas nuevas, no me cierro a ninguna tecnología. Me encanta aprender algo nuevo cada día.
 
