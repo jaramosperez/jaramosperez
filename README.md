@@ -15,7 +15,7 @@
 
 - :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
 
-- 🌱 Ahora me encuentro aprendiendo sobre contenedores con Docker, avanzando el repaso de cosas básicas de Python, y comenzando con las bases teóricas de React.
+- 🌱 Ahora me encuentro repasando y avanzando en Javascript Moderno, Python y Django, y comenzando con las bases teóricas de React.
 
 - :hourglass_flowing_sand: He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
 
