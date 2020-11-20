@@ -1,31 +1,3 @@
-### HOLA!! 👋
-- 😄 Soy Javier, actualmente vivo en la ciudad de Chillán en el centro sur de Chile.
-
-- 🔭 En este momento trabajo en un CESFAM(Centro de Salud Familiar) donde desempeño labores administrativas. Ademas, soy subrogante del encargado de las TIC.
-
-- :muscle: Busco ingresar a la industria que de verdad me apasiona, desarrollando soluciones que faciliten el que hacer de la sociedad.
-
-- :relaxed: Poseo habilidades blandas adquiridas en los casi 10 años que he dedicado a trabajar en el área de la salud con equipos multidisciplinarios, distintas personalidades y carácteres.
-
-- :book: Titulado de Ingeniería en Informática con Licenciatura en Informática :computer:.
-
-- :notebook: Soy Autodidacta, me encanta aprender cosas nuevas, no me cierro a ninguna tecnología. Me encanta aprender algo nuevo cada día.
-
-- :hospital: Desarrolle mi Tesis desarrollando de un Sistema Experto que apoya el Monitoreo de las Garántias GES en el CESFAM Sol de Oriente(Django).
-
-- :question: Aun no decido el camino a seguir en este inmenso mundo de las tecnologías, todas me llaman pero prefiero tomar uno camino y complementarlos con los otros.
-
-- 🌱 Ahora me encuentro repasando y avanzando en Javascript Moderno, Python y Django, y comenzando con las bases teóricas de React.
-
-- :hourglass_flowing_sand: He tenido a posibilidad de interactuar en diferentes niveles diferentes tecnologias y lenguajes.
-
-- :grin: Disfruto :video_game: JRPG en mis tiempos libres, o :book: articulos o papers sobre nuevas tecnologías o temas que me produzcan curiosidad. Escuchar :musical_note: mientras mantengo una larga caminata.
-
-- 💬 ¿Puedes preguntarme lo que quieras? ¿o si necesitas ayuda con algun proyecto? Solo Pregunta 
-
-- 📫 Me pueden encontrar: En Twitter @zodux - :email: jaramosperez85@gmail.com  
-
-- :mag: Soy de esos programadores que buscan en google, cuando no encuentro una solución y que no temen a preguntar.
 
 > La verdad no será encontrada en el exterior. Ningún profesor, ninguna escritura te puede dar la verdad. Está dentro de ti y, si quieres alcanzarla, encuéntrate a ti mismo. Está contigo mismo.  — Bhagwan Shree Rajneesh
 <!--
