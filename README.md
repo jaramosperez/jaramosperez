@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola, Soy Javier!! 👋
+## Hola, Soy Javier!! 👋
 
-## Soy QA y Desarrollador!!
+### Soy QA y Desarrollador!!
 
 - 🔭 En este momento estoy desarrolando un mini proyecto base para automatizar.
 - 🌱 Estudiando todos los días un poquito del ISTQB.
