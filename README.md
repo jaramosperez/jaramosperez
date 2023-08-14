@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 En este momento estoy desarrolando un mini proyecto base para automatizar.
 - 🌱 Estudiando todos los días un poquito del ISTQB.
 - 👯 Estoy buscando algún proyecto OpenSource para colaborar.
-- ⚡ Me divierto con: Video juegos['JRPG', 'RTS'], Series, Películas, Camintas.
+- ⚡ Me divierto con: :video_game: Videojuegos['JRPG', 'RTS'], Series, Películas, Camintas.
