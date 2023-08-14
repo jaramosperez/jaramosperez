@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ### Soy QA y Desarrollador!!
 
 - 🔭 En este momento estoy desarrolando un mini proyecto base para automatizar.
+- Herramientas de automatización de la UI Selenium ['Java', 'Python']
 - 🌱 Estudiando todos los días un poquito del ISTQB.
 - 👯 Estoy buscando algún proyecto OpenSource para colaborar.
-- ⚡ Me divierto con: :video_game: Videojuegos['JRPG', 'RTS'], Series, Películas, Camintas.
+- :video_game: Mi pasatiempo preferido son los Videojuegos['JRPG', 'RTS']
